@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React UGG Online Shop
 This is a React-based project for uggs online shop.  
 
@@ -20,3 +21,4 @@ This is a React-based project for uggs online shop.
 
 ### Cart Page:
 ![cartPage](https://github.com/user-attachments/assets/106660ba-6687-4868-bb2c-e98936f028e2)
+
